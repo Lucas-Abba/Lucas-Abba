@@ -1,8 +1,47 @@
-### Hi there, I'm Lucas 👋
+## Hi, I'm Lucas Abba, a Developer 👋 from Argentina.
 
-<p>   Backend Developer trying to achieve the Fullstack title😅. </p>
-<p> I worked mostly with Javascript/Typescript along with NodeJs in a few projects. </p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-abba/)
 
-- 🔭 Looking for projects where i can improve my programming and communication skills.
-- 🌱 Currently learning React and PHP.
-- 📫 How to reach me: <a href="https://www.https://www.linkedin.com/in/lucas-abba/" >linkedin.com/in/lucas-abba</a> or just send me an email abbalucas4@gmail.com 😉.
+
+**Talking about Professional Stuffs:**
+
+- 🌱 Currently learning React and Solidity; 
+- 🔭 I’m interested in ___Big Data___ & ___Blockchain___;
+- 💬 Ask me about anything, I am happy to help;
+
+&nbsp;
+
+**Languages and Tools:** 
+
+
+<p>
+  
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></code>
+  
+  
+  <br />
+
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
+
+  <br />
+  
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
+  
+  <br />
+
+</p>
+
+<p>
+  <strong>More About Me 🙇‍♂️</strong>
+</p>
+
+- ♥️ Kind people are my kinda people;
+- 🌟 Hobbies: play guitar and sing 🎵, gaming 🎮, code 💻 & cinema 🎦;
+- 🍵 Fun-Fact: I like more peppermint tea than coffee;
