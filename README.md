@@ -5,7 +5,7 @@
 
 **Talking about Professional Stuffs:**
 
-- 🌱 Currently learning React and Solidity; 
+- 🌱 Currently learning React and Redux; 
 - 🔭 I’m interested in ___Big Data___ & ___Blockchain___;
 - 💬 Ask me about anything, I am happy to help;
 
